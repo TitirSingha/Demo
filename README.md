@@ -1,4 +1,4 @@
 # Demo
-My first git repositories.
+My first git repository.
 <br>
 Author - ME
